@@ -1,0 +1,45 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# Unity generated solution and project files
+ExportedObj/
+.consulo/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IDE and editor
+.vs/
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Unity builds and debug output
+*.app/
+*_BurstDebugInformation_DoNotShip/
+
+# Local editor configuration
+.vscode/
+.vsconfig
